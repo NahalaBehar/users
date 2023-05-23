@@ -1,0 +1,26 @@
+#father{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.cards{
+    color: black;
+    border: solid 2px black;
+    border-radius: 7px;
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#search{
+    height: 30px;
+    width: 197px;
+    border: solid 2px black;
+    border-radius: 7px;
+}
+#grandfather{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
